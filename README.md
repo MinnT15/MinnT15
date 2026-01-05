@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MinnT15
-- 👀 I’m interested in Linux embedded
+- 👀 I’m interested in sleep
 - 🌱 I’m currently learning Linux embedded
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
